@@ -4,6 +4,9 @@
 
 | topic name   | link   |
 |--------------|--------|
-| markdown     | [pageLink](https://maysaahourani.github.io/reading-notes/markdown)   |
+| markdown     | [pageLink](/home/mais/102/reading-notes/TextEditor.md)   |
 |text editor   | [what is text editor ? ] (/home/mais/102/reading-notes/TextEditor.md) |
-|  common features for text Editors |  [comon features](/home/mais/102/reading-notes/commonfeatures.md) |
+|  common features for text Editors |  [common features](/home/mais/102/reading-notes/commonfeatures.md) |
+ basic Vs specific
+
+
