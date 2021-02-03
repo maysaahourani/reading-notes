@@ -15,3 +15,17 @@ In text editor its very important to choose the suitable one for you and this is
 basic text editor will have the above three features ,specific text editor may works with specific operating system , An IDE (Integrated Development Environment) is really a suite of
 different software all coming together. An IDE is a text editor, a file
 manager, a compiler, and a debugger all in one software package breifly its the platform for prograammer that he had everything at one place. 
+
+
+
+**cheat sheet for terminal**
+we have those usable command
+
+
+1. pwd
+2.ls
+3.cd
+
+
+4.echo
+
