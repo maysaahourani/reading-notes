@@ -6,4 +6,3 @@
 |what is text editor    	|[texteditor](/home/mais/102/reading-notes/TextEditor.md)	|
 |   common features for text editors	|   [commonfeaturs](/home/mais/102/reading-notes/commonfeatures.md)	|   basic vs specific	| [basicVsspecific](/home/mais/102/reading-notes/basic vs specific)
 |   coomand for terminal	|  [comamand] (/home/mais/102/reading-notes/command terminal)	|   
-|   	|   	|   
