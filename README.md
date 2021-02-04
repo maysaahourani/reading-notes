@@ -6,6 +6,6 @@
 ----------------------------------------|---------------------	  
 what is text editor                  	|[texteditor](https://maysaahourani.github.io/reading-notes/markdown)	
    common features for text editors	    |[commonfeaturs](https://maysaahourani.github.io/reading-notes/commonfeatures)
-   coomand for terminal	                |[comamand](https://maysaahourani.github.io/reading-notes/command terminal)	   
+   command for terminal	                |[comamand](https://maysaahourani.github.io/reading-notes/command terminal)	   
 	   basic vs specific	            |[basicVsspecific](https://maysaahourani.github.io/reading-notes/basic vs specific)
 
