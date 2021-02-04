@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-theme: jekyll-theme-hacker
+theme: jekyll-theme-midnight
 # hello this is my simple  pages , hope you like it .
 
 ## table of content 
@@ -8,6 +7,3 @@ theme: jekyll-theme-hacker
 |what is text editor    	|[texteditor](/home/mais/102/reading-notes/TextEditor.md)	|
 |   common features for text editors	|   [commonfeaturs](/home/mais/102/reading-notes/commonfeatures.md)	|   basic vs specific	| [basicVsspecific](/home/mais/102/reading-notes/basic vs specific)
 |   coomand for terminal	|  [comamand] (/home/mais/102/reading-notes/command terminal)	|   
-=======
-theme: jekyll-theme-midnight
->>>>>>> 7b4bc218e57b8494cd4acdc8098423b04c616276
