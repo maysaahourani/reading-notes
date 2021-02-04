@@ -2,11 +2,8 @@
 
 ## table of content 
 
-| topic name   | link   |
-|--------------|--------|
-| markdown     | [pageLink](/home/mais/102/reading-notes/TextEditor.md)   |
-|text editor   | [what is text editor ? ] (/home/mais/102/reading-notes/TextEditor.md) |
-|  common features for text Editors |  [common features](/home/mais/102/reading-notes/commonfeatures.md) |
- basic Vs specific
-
-
+|| topic name           	| page link  	|   	  
+|what is text editor    	|[texteditor](/home/mais/102/reading-notes/TextEditor.md)	|
+|   common features for text editors	|   [commonfeaturs](/home/mais/102/reading-notes/commonfeatures.md)	|   basic vs specific	| [basicVsspecific](/home/mais/102/reading-notes/basic vs specific)
+|   coomand for terminal	|  [comamand] (/home/mais/102/reading-notes/command terminal)	|   
+|   	|   	|   
