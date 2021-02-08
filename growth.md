@@ -17,4 +17,4 @@ One of the most basic beliefs we carry about ourselves, Dweck found in her resea
 1. Replace the word “failing” with the word “learning.” ...
 
 
-THIS is MY git hub accont [MAYSAA](https://github.com/maysaahourani)
+THIS is MY git hub accont [MAYSAA] (https://github.com/maysaahourani)
